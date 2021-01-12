@@ -1,1 +1,1 @@
-# CryptoWallet app (Windows version) for PLAN Blockchain
+# CryptoWallet apps (Windows versions) for PLAN Blockchain
